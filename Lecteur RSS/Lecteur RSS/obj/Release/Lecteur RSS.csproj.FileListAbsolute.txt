@@ -1,0 +1,14 @@
+C:\Users\WindowsPlateform\documents\visual studio 2015\Projects\Lecteur RSS\Lecteur RSS\bin\Release\Lecteur RSS.exe.config
+C:\Users\WindowsPlateform\documents\visual studio 2015\Projects\Lecteur RSS\Lecteur RSS\bin\Release\Lecteur RSS.exe
+C:\Users\WindowsPlateform\documents\visual studio 2015\Projects\Lecteur RSS\Lecteur RSS\bin\Release\Lecteur RSS.pdb
+C:\Users\WindowsPlateform\documents\visual studio 2015\Projects\Lecteur RSS\Lecteur RSS\obj\Release\MainWindow.g.cs
+C:\Users\WindowsPlateform\documents\visual studio 2015\Projects\Lecteur RSS\Lecteur RSS\obj\Release\App.g.cs
+C:\Users\WindowsPlateform\documents\visual studio 2015\Projects\Lecteur RSS\Lecteur RSS\obj\Release\Lecteur RSS_MarkupCompile.cache
+C:\Users\WindowsPlateform\documents\visual studio 2015\Projects\Lecteur RSS\Lecteur RSS\obj\Release\Lecteur RSS_MarkupCompile.lref
+C:\Users\WindowsPlateform\documents\visual studio 2015\Projects\Lecteur RSS\Lecteur RSS\obj\Release\MainWindow.baml
+C:\Users\WindowsPlateform\documents\visual studio 2015\Projects\Lecteur RSS\Lecteur RSS\obj\Release\Lecteur RSS.g.resources
+C:\Users\WindowsPlateform\documents\visual studio 2015\Projects\Lecteur RSS\Lecteur RSS\obj\Release\Lecteur_RSS.Properties.Resources.resources
+C:\Users\WindowsPlateform\documents\visual studio 2015\Projects\Lecteur RSS\Lecteur RSS\obj\Release\Lecteur RSS.csproj.GenerateResource.Cache
+C:\Users\WindowsPlateform\documents\visual studio 2015\Projects\Lecteur RSS\Lecteur RSS\obj\Release\Lecteur RSS.exe
+C:\Users\WindowsPlateform\documents\visual studio 2015\Projects\Lecteur RSS\Lecteur RSS\obj\Release\Lecteur RSS.pdb
+C:\Users\WindowsPlateform\documents\visual studio 2015\Projects\Lecteur RSS\Lecteur RSS\obj\Release\Lecteur RSS.csprojResolveAssemblyReference.cache
